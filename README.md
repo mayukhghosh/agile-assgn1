@@ -2,7 +2,7 @@
 
 #### Software Engineering Article
 
-[$ting in their developers](https://sdtimes.com/security/companies-are-making-up-for-lack-of-cybersecurity-professionals-by-investing-in-their-developers/).
+[Companies are making up for lack of cybersecurity professionals by investing in their developers](https://sdtimes.com/security/companies-are-making-up-for-lack-of-cybersecurity-professionals-by-investing-in-their-developers/).
 
 ##### Response
 
