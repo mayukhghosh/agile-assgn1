@@ -11,3 +11,7 @@ This article sheds light on developers’ rising concerns for security. As we ar
 ##### Comment by Michael Del Casino
 
 That ratio of 1 security engineer to 100 regular developers is quite stark indeed. It's all the more concerning when one ponders the considerations for national security, as cyber warfare has arguably surpassed traditional warfare in many ways. Perhaps the governemnt will realize that there is an impetus to accelerate the number of entrants into the field and create some incentive(s) as such.
+
+#### Comment by Mayukh Ghosh
+
+Apart from the lack of security engineers, the security engineers are spending a lot of time remdiating the vulnerabilities of the software. It would appear as though the tools are not sufficient to help them fix the problems efficiently, even if they are useful in identifying them. There needs to be substantial effort in both the training of more security professionals as well as more investment in improving and developing tools such that it is able to implement fixes more efficiently.
